@@ -1,26 +1,10 @@
-# Data Science and Intelligent Communication Systems student
-## Education
-- M. S., Intelligent Communication systems | EURECOM (_September 2023_)								       		
-- M.S., Data Science and Engineering	| Politecnico di Torino (_September 2022_)	 			        		
-- B.S., Computer Engineering | Politecnico di Torino (_September 2019 - October 2022_)
+# Hello, I'm Sara
+<a href="https://www.linkedin.com/in/sara-rosato-2b5a81190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- ## Projects
-### Semantic Segmentation for Autonomous Driving
-Proposition of a benchmark to test existing techniques in semantic
-segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
+I'm a Data Science student with a profound interest in machine learning and deep learning.
 
-### Intent Detection Problem
-Possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
-
-
-## Work Experience
-**Mathematics Tutor (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-
-#### Technical Skills: Python, SQL, MATLAB
-
-#### Languages
-
-### Volunteering
+## Projects
+- Machine learning for intelligent systems: implementation and study of various methods and techniques <a href="https://github.com/sararst/Malis">/a>
+- Semantic Segmentation for Autonomous Driving”: proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
+- "Intent Detection Problem”: possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
+- "Constrained and Unconstrained Optimization”: analysis of optimization techniques for numerical problems <a href="https://github.com/sararst/Numerical-optimization-for-large-scale-problems">/a>
