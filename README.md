@@ -4,7 +4,7 @@
 I'm a Data Science student with a profound interest in machine learning and deep learning.
 
 ## Projects
-- <a href="https://github.com/sararst/Malis">Malis : implementation and study of various methods and techniques 
+- <a href="https://github.com/sararst/Malis">Malis> : implementation and study of various methods and techniques 
 - Semantic Segmentation for Autonomous Driving”: proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
 - "Intent Detection Problem”: possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
 - "Constrained and Unconstrained Optimization”: analysis of optimization techniques for numerical problems <a href="https://github.com/sararst/Numerical-optimization-for-large-scale-problems">Numerical Optimization
