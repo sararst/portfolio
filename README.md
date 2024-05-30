@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm a Data Science student with a profound interest in machine learning and deep learning. Currently pursuing a Double Degree Master's in Intelligent Communication Systems at EURECOM and Data Science and Engineering at Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications, and I thrive in multicultural environments. I am always eager for new challenges.
+I'm a 23-year-old student with a profound interest in machine learning and deep learning, currently pursuing a Master's Double Degree in Data Science and Intelligent Communication Systems at EURECOM and Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications and thrive in multicultural environments. I am always eager for new challenges.
 
 ## Education
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
