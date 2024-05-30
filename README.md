@@ -1,4 +1,4 @@
-# Hello, I'm Sara
+# Hello! I'm Sara
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sara-rosato-2b5a81190/">
