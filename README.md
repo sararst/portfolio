@@ -1,10 +1,13 @@
 # Hello, I'm Sara
-<a href="https://www.linkedin.com/in/sara-rosato-2b5a81190/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://github.com/sararst">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sara-rosato-2b5a81190/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sararst">
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  </a>
+</p>
 
 I'm a Data Science student with a profound interest in machine learning and deep learning. Currently pursuing a Double Degree Master's in Intelligent Communication Systems at EURECOM and Data Science and Engineering at Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications, and I thrive in multicultural environments. I am always eager for new challenges.
 
