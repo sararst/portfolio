@@ -1,5 +1,5 @@
 # Data Science and Intelligent Communication Systems student
-
+![EEG Band Discovery](/assets:img/IMG_2007.JPG)
 ## Education
 - M. S., Intelligent Communication systems | EURECOM (_September 2023_)								       		
 - M.S., Data Science and Engineering	| Politecnico di Torino (_September 2022_)	 			        		
