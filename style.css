@@ -1,5 +1,5 @@
-/* assets/css/style.css */
-.profile-image {
+.profile-pic {
     width: 80px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
+    border-radius: 50%;
 }
