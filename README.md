@@ -31,7 +31,7 @@ Final grade: 100/110
 - **Machine Learning for Intelligent Systems**: Implementation and study of various methods and techniques [Malis](https://github.com/sararst/Malis)
 - **Semantic Segmentation for Autonomous Driving**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
 - **Intent Detection Problem**: Possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
-- **Constrained and Unconstrained Optimization**: Analysis of optimization techniques for numerical problems [Numerical Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)
+- **[Numerical Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
 ## Professional Experience
 ### Mathematics Tutor
