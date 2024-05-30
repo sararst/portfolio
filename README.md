@@ -28,10 +28,10 @@ Relevant courses: Machine Learning and Deep Learning, Distributed Architectures 
 Final grade: 100/110
 
 ## Projects
-- **Machine Learning for Intelligent Systems**: Implementation and study of various methods and techniques [Malis](https://github.com/sararst/Malis)
+- **[Malis](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
 - **Semantic Segmentation for Autonomous Driving**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
 - **Intent Detection Problem**: Possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
-- **[Numerical Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
+- **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
 ## Professional Experience
 ### Mathematics Tutor
