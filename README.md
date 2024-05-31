@@ -1,4 +1,6 @@
-# Hello! I'm Sara, you can contact me here:
+# Hello! I'm Sara
+
+You can contact me here:
 
 <p align="left">
   <a href="https://github.com/sararst">
@@ -6,6 +8,9 @@
   </a>
   <a href="https://www.linkedin.com/in/sara-rosato-2b5a81190/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sararosato.r@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
