@@ -39,14 +39,14 @@ Final grade: 100/110
 
 ## Professional Experience
 ### Data Scientist
-** Politecnico di Torino, Remote **
+**Politecnico di Torino, Remote**
 2024 - Ongoing
 - Analyzed data for the CALOS department (Campus: Logistics and Sustainability).
 - Preprocessed data and generated detailed reports.
 - Collaborated with team members to enhance data-driven decision-making processes.
 
 ### PCTO scholarship holder
-** Politecnico di Torino, Remote and On-site **
+**Politecnico di Torino, Remote and On-site**
 March 2024 - May 2024
 - Supported the educational activities of the "Ingegneria Informatica è creatività" program, divided in 4 modules: Data Science, Design and Impact of Software, Mobile Applications, and Internet of Things, and aimed at promoting computer engineering to secondary school female students, emphasizing it as a neutral discipline, free from gender stereotypes.
 - Prepared materials for the final challenge, which involved proposing and developing a tiny sorter using Teachable Machines and Arduino.
