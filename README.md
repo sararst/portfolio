@@ -1,6 +1,6 @@
 # Hello! I'm Sara
 
-You can contact me here:
+You can find me here:
 
 <p align="left">
   <a href="https://github.com/sararst">
