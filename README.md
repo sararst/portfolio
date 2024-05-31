@@ -35,10 +35,23 @@ Final grade: 100/110
 ## Projects
 - **[Malis](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
 - **Semantic Segmentation for Autonomous Driving**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
-- **Intent Detection Problem**: Possible approach to the Intent detection problem starting from the audio samples without using speech-to-text techniques.
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
 ## Professional Experience
+### Data Scientist
+** Politecnico di Torino, Remote **
+2024 - Ongoing
+- Analyzed data for the CALOS department (Campus: Logistics and Sustainability).
+- Preprocessed data and generated detailed reports.
+- Collaborated with team members to enhance data-driven decision-making processes.
+
+### PCTO scholarship holder
+** Politecnico di Torino, Remote and On-site **
+March 2024 - May 2024
+- Supported the educational activities of the "Ingegneria Informatica è creatività" program, divided in 4 modules: Data Science, Design and Impact of Software, Mobile Applications, and Internet of Things, and aimed at promoting computer engineering to secondary school female students, emphasizing it as a neutral discipline, free from gender stereotypes.
+- Prepared materials for the final challenge, which involved proposing and developing a tiny sorter using Teachable Machines and Arduino.
+- Contributed to the program's goal of enhancing problem-solving skills and creativity among students through hands-on learning experiences.
+
 ### Mathematics Tutor
 **GoStudent, Remote**  
 2022 - Ongoing  
