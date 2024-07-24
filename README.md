@@ -41,7 +41,7 @@ Final grade: 100/110
 ## Projects
 - **[Malcom](https://github.com/sararst/Malcom/tree/main/Project)**: Replicated the paper "Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph Sampling" (Herrera, Chen, Larsson) and explored the broadcast nature of wireless networks and probabilistic subgraph sampling
 - **[Malis](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
-- **Semantic Segmentation for Autonomous Driving**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
+- **[Semantic Segmentation for Autonomous Driving](https://github.com/sararst/MLDL23-FL-project)**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
 - **[Use a Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/sararst/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)**: Determined which image classification algorithm worked the "best" on classifying images as "dogs" or "not dogs".
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
