@@ -19,7 +19,7 @@ I'm a 23-years-old student with a profound interest in machine learning and deep
 ## Education
 
 ### AI Programming with Python Nanodegree
-<div style="line-height: 1.5;"><strong>Udacity</strong><br>June 2024 - October 2024<br>Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks
+<div style="line-height: 1.5;"><strong>Udacity</strong><br>June 2024 - October 2024<br>Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks</div><br>
 
 
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
