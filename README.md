@@ -17,14 +17,11 @@ You can find me here:
 I'm a 23-years-old student with a profound interest in machine learning and deep learning, currently pursuing a Master's Double Degree in Data Science and Intelligent Communication Systems at EURECOM and Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications and thrive in multicultural environments. I am always eager for new challenges.
 
 ## Education
+
 ### AI Programming with Python Nanodegree
-**Udacity**
-
-June 2024 - October 2024
-
-AWS AI & ML Scholarship Program, sponsored by Amazon Web Services.
-
-Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks.
+**Udacity**  
+June 2024 - October 2024  
+Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks
 
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
 **EURECOM, Sophia Antipolis, France**  
