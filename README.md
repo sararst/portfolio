@@ -17,6 +17,12 @@ You can find me here:
 I'm a 23-years-old student with a profound interest in machine learning and deep learning, currently pursuing a Master's Double Degree in Data Science and Intelligent Communication Systems at EURECOM and Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications and thrive in multicultural environments. I am always eager for new challenges.
 
 ## Education
+### AI Programming with Python Nanodegree
+**Udacity**
+June 2024 - October 2024
+AWS AI & ML Scholarship Program, sponsored by Amazon Web Services.
+Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks.
+
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
 **EURECOM, Sophia Antipolis, France**  
 September 2023 - March 2025  
@@ -36,6 +42,7 @@ Final grade: 100/110
 - **[Malcom](https://github.com/sararst/Malcom/tree/main/Project)**: Replicated the paper "Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph Sampling" (Herrera, Chen, Larsson) and explored the broadcast nature of wireless networks and probabilistic subgraph sampling
 - **[Malis](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
 - **Semantic Segmentation for Autonomous Driving**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
+- **[Use a Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/sararst/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)**: Determined which image classification algorithm worked the "best" on classifying images as "dogs" or "not dogs".
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
 ## Professional Experience
