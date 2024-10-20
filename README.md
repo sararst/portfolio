@@ -16,6 +16,52 @@ You can find me here:
 
 I'm a 23-years-old student with a profound interest in machine learning and deep learning, currently pursuing a Master's Double Degree in Data Science and Intelligent Communication Systems at EURECOM and Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications and thrive in multicultural environments. I am always eager for new challenges.
 
+## Professional Experience
+
+### Data Engineer Intern
+**Qualcomm, Munich**
+August 2024 - Ongoing
+- Supporting the Data Engineering team with data architecture and data pipeline challenges, managing data flows
+- Implementing a deep learning model for anomaly detection on semiconductors
+
+### Data Analyst
+**Politecnico di Torino, Remote**
+April 2024 - Ongoing
+- Preprocessed and analyzed 100+ sensor data for the CALOS (Campus: Logistics and Sustainability) department to identify trends and anomalies
+- Collaborated with team members to enhance data-driven decision-making processes.
+
+### PCTO scholarship holder
+**Politecnico di Torino, Remote and On-site**
+March 2024 - May 2024
+- Supported the educational activities of the "Ingegneria Informatica è creatività" program, divided in 4 modules: Data Science, Design and Impact of Software, Mobile Applications, and Internet of Things, and aimed at promoting computer engineering to secondary school female students, emphasizing it as a neutral discipline, free from gender stereotypes.
+- Prepared materials for the final challenge, which involved proposing and developing a tiny sorter using Teachable Machines and Arduino.
+- Contributed to the program's goal of enhancing problem-solving skills and creativity among students through hands-on learning experiences.
+
+### Mathematics Tutor
+**GoStudent, Remote**  
+November 2022 - Ongoing  
+- Boosted my current student’s math grade from 5 to 9 and physics grade from 6 to 8 through targeted tutoring
+- Created a series of video tutorials covering complex mathematical topics, accessed by 200+ students
+
+### WeAreHere Mentor
+**Politecnico di Torino, Remote and On-site, Torino, Italy**  
+September 2022 - Ongoing  
+- Mentored 60+ female bachelor’s students, providing guidance and support for their studies in STEM field
+- Acted as the lead mentor, coordinating the activities of other 30 mentors and served as the main point of contact
+
+### Ambassador
+**Reply, Remote and On-site, Torino, Italy**  
+April 2022 - October 2024  
+- Worked in teams to achieve goals and complete tasks, emphasizing eﬀective teamwork
+- Led the organization of the Reply Challenge event at EURECOM, coordinating the participation of 50 students
+
+### Teaching Assistant of Linear Algebra
+**Politecnico di Torino, Torino, Italy**  
+March 2022 - July 2022  
+- Demonstrated teaching ability in linear algebra and geometry to first-year bachelor’s students.
+- Successfully taught complex concepts, fostering a deep understanding of mathematical principles.
+
+
 ## Education
 
 ### AI Programming with Python Nanodegree
@@ -44,46 +90,6 @@ Final grade: 100/110
 - **[Use a Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/sararst/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)**: Determined which image classification algorithm worked the "best" on classifying images as "dogs" or "not dogs".
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
-## Professional Experience
-### Data Scientist
-**Politecnico di Torino, Remote**
-2024 - Ongoing
-- Analyzed data for the CALOS department (Campus: Logistics and Sustainability).
-- Preprocessed data and generated detailed reports.
-- Collaborated with team members to enhance data-driven decision-making processes.
-
-### PCTO scholarship holder
-**Politecnico di Torino, Remote and On-site**
-March 2024 - May 2024
-- Supported the educational activities of the "Ingegneria Informatica è creatività" program, divided in 4 modules: Data Science, Design and Impact of Software, Mobile Applications, and Internet of Things, and aimed at promoting computer engineering to secondary school female students, emphasizing it as a neutral discipline, free from gender stereotypes.
-- Prepared materials for the final challenge, which involved proposing and developing a tiny sorter using Teachable Machines and Arduino.
-- Contributed to the program's goal of enhancing problem-solving skills and creativity among students through hands-on learning experiences.
-
-### Mathematics Tutor
-**GoStudent, Remote**  
-2022 - Ongoing  
-- Tutored students in mathematical analysis and linear algebra.
-- Applied analytical concepts to assist students in maximizing their potential in mathematical sciences.
-
-### WeAreHere Mentor
-**Politecnico di Torino, Remote and On-site, Torino, Italy**  
-2022 - Ongoing  
-- Mentored female bachelor’s students, providing guidance and support to enhance their academic careers in STEM fields.
-- Organized social and informative events, contributing to the mission of promoting diversity and inclusivity.
-
-### Ambassador
-**Reply, Remote and On-site, Torino, Italy**  
-2022 - Ongoing  
-- Worked in teams to achieve goals and complete tasks, emphasizing effective teamwork.
-- Helped to create a bond between students and the company.
-- Networked with other Ambassadors and employees.
-
-### Teaching Assistant of Linear Algebra
-**Politecnico di Torino, Torino, Italy**  
-March 2022 - July 2022  
-- Demonstrated teaching ability in linear algebra and geometry to first-year bachelor’s students.
-- Successfully taught complex concepts, fostering a deep understanding of mathematical principles.
-
 ## Languages and Skills
 - **Languages**:  
   Italian: Native  
@@ -97,6 +103,11 @@ March 2022 - July 2022
   Inside LVMH certificate: Operation and Supply Chain, Retail & Customer Experience
 
 ## Volunteering
-### BEST Torino, Board of European Students of Technology
+### QWomen Employee Network
 **2021 - 2022**  
+September 2024 - Ongoing
+- Participated as a volunteer in the STEM Family Day event to promote STEM education and inclusivity
+- Helping in the organization of the annual Christmas party to foster community engagement and networking
+### BEST Torino, Board of European Students of Technology
+**Qualcomm, Munich**
 - Organized events for international students and challenges for Politecnico di Torino students, such as “EBEC” (European BEST Engineering Competition) and BAC (BEST Architecture Competition).
