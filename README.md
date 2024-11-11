@@ -104,12 +104,12 @@ Final grade: 100/110
 
 ## Volunteering
 ### QWomen Employee Network
-**Qualcomm, Munich, Germany**
+** Qualcomm, Munich, Germany **
 September 2024 - Ongoing
 - Participated as a volunteer in the STEM Family Day event to promote STEM education and inclusivity
 - Helping in the organization of the annual Christmas party to foster community engagement and networking
   
 ### BEST Torino, Board of European Students of Technology
 **Politecnico di Torino, Torino, Italy**  
-**2021 - 2022**  
+2021 - 2022
 - Organized events for international students and challenges for Politecnico di Torino students, such as “EBEC” (European BEST Engineering Competition) and BAC (BEST Architecture Competition).
