@@ -103,8 +103,9 @@ Final grade: 100/110
   Inside LVMH certificate: Operation and Supply Chain, Retail & Customer Experience
 
 ## Volunteering
+
 ### QWomen Employee Network
-** Qualcomm, Munich, Germany **
+**Qualcomm, Munich, Germany**
 September 2024 - Ongoing
 - Participated as a volunteer in the STEM Family Day event to promote STEM education and inclusivity
 - Helping in the organization of the annual Christmas party to foster community engagement and networking
