@@ -20,7 +20,7 @@ I'm a 23-years-old student with a profound interest in machine learning and deep
 
 ### Data Engineer Intern
 **Qualcomm, Munich**
-August 2024 - Ongoing
+August 2024 - January 2025
 - Supporting the Data Engineering team with data architecture and data pipeline challenges, managing data flows
 - Implementing a deep learning model for anomaly detection on semiconductors
 
@@ -45,7 +45,7 @@ November 2022 - Ongoing
 
 ### WeAreHere Mentor
 **Politecnico di Torino, Remote and On-site, Torino, Italy**  
-September 2022 - Ongoing  
+September 2022 - October 2024  
 - Mentored 60+ female bachelor’s students, providing guidance and support for their studies in STEM field
 - Acted as the lead mentor, coordinating the activities of other 30 mentors and served as the main point of contact
 
