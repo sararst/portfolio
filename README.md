@@ -1,5 +1,7 @@
 # Hello! I'm Sara
 
+I'm a 24-year-old Data Engineer currently working at SLB in Cambridge, MA, as part of a VIE program. I hold a double master’s degree in Data Science and Intelligent Communication Systems from EURECOM and Politecnico di Torino. My interests lie in machine learning, deep learning, and scalable data systems. With a strong foundation in mathematics, data analysis, and communication systems, I thrive in multicultural environments and am always eager to tackle new challenges and grow as an engineer.
+
 You can find me here:
 
 <p align="left">
