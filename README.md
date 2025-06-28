@@ -14,21 +14,27 @@ You can find me here:
   </a>
 </p>
 
-I'm a 23-years-old student with a profound interest in machine learning and deep learning, currently pursuing a Master's Double Degree in Data Science and Intelligent Communication Systems at EURECOM and Politecnico di Torino. I have a strong foundation in mathematics, data analysis, and communications and thrive in multicultural environments. I am always eager for new challenges.
+
 
 ## Professional Experience
+
+### Data Engineer VIE
+**SLB, Cambridge (MA)**
+March 2025 - Present
+- Analyzing multi-sensor datasets to detect patterns and anomalies related to fugitive methane emissions
+- Collaborating with cross-functional teams to translate insights into emissions-reduction solutions
 
 ### Data Engineer Intern
 **Qualcomm, Munich**
 August 2024 - January 2025
-- Supporting the Data Engineering team with data architecture and data pipeline challenges, managing data flows
-- Implementing a deep learning model for anomaly detection on semiconductors
+- Supported pipeline optimization and data architecture tasks across large-scale sensor systems
+- Developed a deep learning model for anomaly detection on semiconductors, achieved 90% accuracy
 
 ### Data Analyst
 **Politecnico di Torino, Remote**
 April 2024 - Ongoing
-- Preprocessed and analyzed 100+ sensor data for the CALOS (Campus: Logistics and Sustainability) department to identify trends and anomalies
-- Collaborated with team members to enhance data-driven decision-making processes.
+- Preprocessed and analyzed over 100 sensor streams to detect anomalies and long-term trends
+- Collaborated with team members to enhance data-driven decision-making processes
 
 ### PCTO scholarship holder
 **Politecnico di Torino, Remote and On-site**
@@ -39,7 +45,7 @@ March 2024 - May 2024
 
 ### Mathematics Tutor
 **GoStudent, Remote**  
-November 2022 - Ongoing  
+November 2022 - March 2025  
 - Boosted my current student’s math grade from 5 to 9 and physics grade from 6 to 8 through targeted tutoring
 - Created a series of video tutorials covering complex mathematical topics, accessed by 200+ students
 
@@ -58,8 +64,8 @@ April 2022 - October 2024
 ### Teaching Assistant of Linear Algebra
 **Politecnico di Torino, Torino, Italy**  
 March 2022 - July 2022  
-- Demonstrated teaching ability in linear algebra and geometry to first-year bachelor’s students.
-- Successfully taught complex concepts, fostering a deep understanding of mathematical principles.
+- Demonstrated teaching ability in linear algebra and geometry to first-year bachelor’s students
+- Successfully taught complex concepts, fostering a deep understanding of mathematical principles
 
 
 ## Education
@@ -71,12 +77,14 @@ March 2022 - July 2022
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
 **EURECOM, Sophia Antipolis, France**  
 September 2023 - March 2025  
-Relevant courses: Statistical Signal Processing, Machine Learning and Intelligent Systems, Advanced Topics in Wireless Communications, Introduction to Management
+- Obtained ERASMUS+ scholarship, selected among 300 candidates
+- Relevant courses: Statistical Signal Processing, Machine Learning and Intelligent Systems, Advanced Topics in Wireless Communications, Introduction to Management
 
 ### Master in Data Science and Engineering (MSc., Double Degree)
 **Politecnico di Torino, Torino, Italy**  
-September 2022 - March 2025  
-Relevant courses: Machine Learning and Deep Learning, Distributed Architectures for Big Data Processing and Analytics, Data Management and Visualization
+September 2022 - April 2025
+- Thesis: Enhancing Anomaly Detection in Semiconductor Manufacturing Using Deep Learning (Qualcomm)
+- Relevant courses: Machine Learning and Deep Learning, Distributed Architectures for Big Data Processing and Analytics, Data Management and Visualization
 
 ### Bachelor of Computer Engineering
 **Politecnico di Torino, Torino, Italy**  
@@ -84,8 +92,12 @@ Relevant courses: Machine Learning and Deep Learning, Distributed Architectures 
 Final grade: 100/110
 
 ## Projects
-- **[Malcom](https://github.com/sararst/Malcom/tree/main/Project)**: Replicated the paper "Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph Sampling" (Herrera, Chen, Larsson) and explored the broadcast nature of wireless networks and probabilistic subgraph sampling
-- **[Malis](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
+- **Semester Project - Galois**:
+• Developed a database system that enhances SQL queries by integrating LLMs as a storage layer
+• Designed custom physical operators and query optimizations to improve result quality and eﬃciency
+• Published at SIGMOID: ”Logical and Physical Optimizations for SQL Query Execution over Large Language Models”
+- **[Machine Learning for Communication](https://github.com/sararst/Malcom/tree/main/Project)**: Replicated the paper "Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph Sampling" (Herrera, Chen, Larsson) and explored the broadcast nature of wireless networks and probabilistic subgraph sampling
+- **[Machine Learning for Intelligent Systems](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
 - **[Semantic Segmentation for Autonomous Driving](https://github.com/sararst/MLDL23-FL-project)**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
 - **[Use a Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/sararst/Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)**: Determined which image classification algorithm worked the "best" on classifying images as "dogs" or "not dogs".
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
@@ -106,7 +118,7 @@ Final grade: 100/110
 
 ### QWomen Employee Network
 **Qualcomm, Munich, Germany**
-September 2024 - Ongoing
+September 2024 - January 2025
 - Participated as a volunteer in the STEM Family Day event to promote STEM education and inclusivity
 - Helping in the organization of the annual Christmas party to foster community engagement and networking
   
