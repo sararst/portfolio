@@ -101,36 +101,22 @@ Final grade: 100/110
 - **[Constrained and Unconstrained Optimization](https://github.com/sararst/Numerical-optimization-for-large-scale-problems)**: Analysis of optimization techniques for numerical problems 
 
 ## Languages and Skills
+
 - **Languages**:  
-  Italian: Native  
-  English: Fluent  
-  French: Conversational
+  Italian (Native), English (Fluent), French (Conversational)
 
 - **Software Skills**:  
-  Python (Proficient), MATLAB (Proficient), C (Intermediate), LaTeX (Proficient), Hadoop (Intermediate), Tableau (Proficient), SQL (Proficient), MongoDB (Intermediate)
+  Python (Proficient), MATLAB (Proficient), C (Intermediate), LaTeX (Proficient), Hadoop (Intermediate),  
+  Tableau (Proficient), SQL (Proficient), MongoDB (Intermediate)
 
-- **Certificates**:
+- **Certificates**:  
+  - **AI Programming with Python Nanodegree**, Udacity (Jun 2024 – Oct 2024)  
+    Topics: Python, NumPy, Pandas, Matplotlib, Linear Algebra, Neural Networks  
+  - **Foundations of Generative AI**, Udacity (Dec 2024 – Feb 2025)  
+    [View Certificate](https://www.udacity.com/certificate/e/91f43688-b7bc-11ef-9adf-2b19e2f2dd36)  
+  - **Inside LVMH Certificate**, LVMH  
+    Topics: Operations, Supply Chain, Retail & Customer Experience
 
-### AI Programming with Python Nanodegree
-<div style="line-height: 1.5;">
-  <strong>Udacity</strong><br>
-  June 2024 – October 2024<br>
-  Courses: Introduction to Python for AI Programmers, NumPy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks
-</div><br>
-
-### Foundations of Generative AI
-<div style="line-height: 1.5;">
-  <strong>Udacity</strong><br>
-  December 2024 – February 2025<br>
-  Generative AI fundamentals<br>
-  <a href="https://www.udacity.com/certificate/e/91f43688-b7bc-11ef-9adf-2b19e2f2dd36" target="_blank">View Certificate</a>
-</div><br>
-
-### Inside LVMH Certificate
-<div style="line-height: 1.5;">
-  <strong>LVMH</strong><br>
-  Completed coursework in Operations & Supply Chain, Retail & Customer Experience
-</div><br>
 
 
 ## Volunteering
