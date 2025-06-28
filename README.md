@@ -94,10 +94,10 @@ September 2022 - April 2025
 Final grade: 100/110
 
 ## Projects
-- **Semester Project - Galois**:
-// Developed a database system that enhances SQL queries by integrating LLMs as a storage layer
-Designed custom physical operators and query optimizations to improve result quality and eﬃciency
-- Published at SIGMOID: ”Logical and Physical Optimizations for SQL Query Execution over Large Language Models”
+- **Semester Project - Galois**:  
+  Developed a database system that enhances SQL queries by integrating LLMs as a storage layer.  
+  Designed custom physical operators and query optimizations to improve result quality and efficiency.  
+  Published at SIGMOD: *"Logical and Physical Optimizations for SQL Query Execution over Large Language Models"*
 - **[Machine Learning for Communication](https://github.com/sararst/Malcom/tree/main/Project)**: Replicated the paper "Decentralized Learning over Wireless Networks with Broadcast-Based Subgraph Sampling" (Herrera, Chen, Larsson) and explored the broadcast nature of wireless networks and probabilistic subgraph sampling
 - **[Machine Learning for Intelligent Systems](https://github.com/sararst/Malis)**: Implementation and study of various methods and techniques of machine learning for intelligent systems
 - **[Semantic Segmentation for Autonomous Driving](https://github.com/sararst/MLDL23-FL-project)**: Proposition of a benchmark to test existing techniques in semantic segmentation and federated learning and implementation of a Clustered Averaged Batch Normalization.
