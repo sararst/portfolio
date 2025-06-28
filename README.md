@@ -110,10 +110,9 @@ Final grade: 100/110
   Tableau (Proficient), SQL (Proficient), MongoDB (Intermediate)
 
 - **Certificates**:  
-  - **AI Programming with Python Nanodegree**, Udacity (Jun 2024 – Oct 2024)  
+  - **AI Programming with Python Nanodegree**, Udacity (Jun 2024 – Oct 2024) [View Certificate](www.udacity.com/certificate/e/a0f2b2f4-2dce-11ef-b271-afc0b7aadafb)  
     Topics: Python, NumPy, Pandas, Matplotlib, Linear Algebra, Neural Networks  
-  - **Foundations of Generative AI**, Udacity (Dec 2024 – Feb 2025)  
-    [View Certificate](https://www.udacity.com/certificate/e/91f43688-b7bc-11ef-9adf-2b19e2f2dd36)  
+  - **Foundations of Generative AI**, Udacity (Dec 2024 – Feb 2025) [View Certificate](https://www.udacity.com/certificate/e/91f43688-b7bc-11ef-9adf-2b19e2f2dd36)  
   - **Inside LVMH Certificate**, LVMH  
     Topics: Operations, Supply Chain, Retail & Customer Experience
 
