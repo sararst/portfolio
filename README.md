@@ -72,10 +72,6 @@ March 2022 - July 2022
 
 ## Education
 
-### AI Programming with Python Nanodegree
-<div style="line-height: 1.5;"><strong>Udacity</strong><br>June 2024 - October 2024<br>Courses: Introduction to Python for AI programmers, Numpy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks</div><br>
-
-
 ### Master in Intelligent Communication Systems (MSc., Double Degree)
 **EURECOM, Sophia Antipolis, France**  
 September 2023 - March 2025  
@@ -113,8 +109,29 @@ Final grade: 100/110
 - **Software Skills**:  
   Python (Proficient), MATLAB (Proficient), C (Intermediate), LaTeX (Proficient), Hadoop (Intermediate), Tableau (Proficient), SQL (Proficient), MongoDB (Intermediate)
 
-- **Certificates**:  
-  Inside LVMH certificate: Operation and Supply Chain, Retail & Customer Experience
+- **Certificates**:
+
+### AI Programming with Python Nanodegree
+<div style="line-height: 1.5;">
+  <strong>Udacity</strong><br>
+  June 2024 – October 2024<br>
+  Courses: Introduction to Python for AI Programmers, NumPy, Pandas, Matplotlib, Linear Algebra & Calculus, Neural Networks
+</div><br>
+
+### Foundations of Generative AI
+<div style="line-height: 1.5;">
+  <strong>Udacity</strong><br>
+  December 2024 – February 2025<br>
+  Generative AI fundamentals<br>
+  <a href="https://www.udacity.com/certificate/e/91f43688-b7bc-11ef-9adf-2b19e2f2dd36" target="_blank">View Certificate</a>
+</div><br>
+
+### Inside LVMH Certificate
+<div style="line-height: 1.5;">
+  <strong>LVMH</strong><br>
+  Completed coursework in Operations & Supply Chain, Retail & Customer Experience
+</div><br>
+
 
 ## Volunteering
 
